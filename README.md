@@ -47,11 +47,15 @@ You can modify these rates directly in the `main()` function.
 3. Convert USD to Paksitani Rupee
 4. Convert USD to Indian Rupee
 0. Exit
+1. 
 Plz Enter Your Choice : 1
+
 Enter the Amount of USD : 100
+
 100 USD is Equalent to 85 Euro
 
 🚀 Features to Add (Optional Enhancements)
+
 Real-time exchange rate fetching from an API
 
 GUI using Qt or any C++ UI framework
